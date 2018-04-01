@@ -1,0 +1,4 @@
+#coding=utf-8
+print("萧萧萧")
+print("xiaoxiaoxiao")
+
