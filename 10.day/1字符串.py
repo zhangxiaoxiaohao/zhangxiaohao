@@ -1,0 +1,8 @@
+z = ("人生苦短,我用python,life is short")
+print(z)
+print(z.count("p"))
+print(z.count("i"))
+print(z.)
+print(z.upper())
+print(z.lower())
+print(z.title())

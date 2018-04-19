@@ -7,5 +7,5 @@ elif height <175 and money >10000000 and face >=99:
     print("富帅")
 elif face >=99:
     print("帅")
-elif height <=160 and moeny <100 and face <60:
+elif height <=160 and money <100 and face <60:
     print("渣渣")
